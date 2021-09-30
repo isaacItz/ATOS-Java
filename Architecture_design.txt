@@ -1,2 +1,8 @@
 Hi.
 well respecting SOLID principles, i have heard about it but never applied it, maybe i applied the interface segregation but not always, i think they are useful(very useful) because they can save you a lot of time.
+regarding more principles.
+Dry: luckily my teacher in high-school told us never rewrite code, alaways separate code to use one or more times.
+i like how was described the open close principle: it prevents to modify code already tried and tested.
+respect MVC, i already used in the first semesters of the career, but i don't used as it suposed to be used.
+i never used the controler, in fact my package controller was always empty, some times i put some interfaces and thats all.
+Now i see that did controllers, but in the model, and with other name, but still i letft too many things to the view.
