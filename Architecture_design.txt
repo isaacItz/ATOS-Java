@@ -6,3 +6,5 @@ i like how was described the open close principle: it prevents to modify code al
 respect MVC, i already used in the first semesters of the career, but i don't used as it suposed to be used.
 i never used the controler, in fact my package controller was always empty, some times i put some interfaces and thats all.
 Now i see that did controllers, but in the model, and with other name, but still i letft too many things to the view.
+Respecting the Front controller pattern, i liked i see it like a load balancer, and with repect to the above, man, i barely understood.
+
