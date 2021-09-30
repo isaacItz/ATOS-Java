@@ -7,4 +7,5 @@ respect MVC, i already used in the first semesters of the career, but i don't us
 i never used the controler, in fact my package controller was always empty, some times i put some interfaces and thats all.
 Now i see that did controllers, but in the model, and with other name, but still i letft too many things to the view.
 Respecting the Front controller pattern, i liked i see it like a load balancer, and with repect to the above, man, i barely understood.
-
+now, talking about intercepting filter design patter, i could say that basically you have a request sended by a client and you can set filters for that request such as logging, authentication, etc and its the same for responses.
+talking about the Service Locator patter, i understood that when we have a lot of services witha high search cost we can cach that services so the first time we look up that service we need to search in the "JNDI" and that service is chached so the next time we look for that service it will be already chached, thus saving some time.
